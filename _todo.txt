@@ -1,0 +1,6 @@
+Gabriel
++ reference FIgure when explaning road connections
++ what other scenarios can we run? 
++ talk about OTM oututs and capabilities vis a vis Mobiliti
++ Explain fundamental diagram
++ Explain CTM better
